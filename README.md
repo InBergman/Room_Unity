@@ -7,17 +7,20 @@ Have to add interaction with the new object (Have to model them: ex radio-casset
 <p align="center">
   <img  width="460"
         height="300" 
-        src="http://zupimages.net/viewer.php?id=18/34/vs0i.png">
+        src="https://www.casimages.com/i/180822040303611860.png.html">
   <img  width="460"
         height="300" 
-        src="http://zupimages.net/viewer.php?id=18/34/mt8l.png">
+        src="https://www.casimages.com/i/180822040303895006.png.html">
   <img  width="460"
         height="300" 
-        src="http://zupimages.net/viewer.php?id=18/34/96c8.png">
+        src="https://www.casimages.com/i/180822040304249960.png.html">
   <img  width="460"
         height="300" 
-        src="http://zupimages.net/viewer.php?id=18/34/gh1o.png">
+        src="https://www.casimages.com/i/180822040304560075.png.html">
   <img  width="460"
         height="300" 
-        src="http://zupimages.net/viewer.php?id=18/34/xv3c.png">
+        src="https://www.casimages.com/i/18082204030662536.png.html">
+    <img  width="460"
+        height="300" 
+        https://www.casimages.com/i/180822040306723640.png.html">
 </p>
